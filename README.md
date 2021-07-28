@@ -19,7 +19,7 @@ folders:
 ![alt text](https://github.com/WZJoyce/image-library/blob/main/image/SearchPage.png)
 
 ## Home page
-### select an image to add to the image library with addition information
+### select an image to add to the media library with addition information
 ![alt text](https://github.com/WZJoyce/image-library/blob/main/image/HomePage.png)
 
 ## Image Library
