@@ -17,7 +17,7 @@
               </li>
               <li class="nav-item">
                 <inertia-link class="link-button" href="/medialibrary">
-                  Media Library
+                  Image Library
                 </inertia-link>
               </li>
               <li class="nav-item">
