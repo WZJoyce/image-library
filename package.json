@@ -1,0 +1,47 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "axios": "^0.21.1",
+        "cross-env": "^7.0.3",
+        "laravel-mix": "^6.0.13",
+        "lodash": "^4.17.21",
+        "postcss": "^8.1",
+        "resolve-url-loader": "^3.1.2",
+        "sass": "^1.32.8",
+        "sass-loader": "^11.0.1",
+        "vue-loader": "^15.9.5",
+        "webpack-cli": "^4.7.2"
+    },
+    "dependencies": {
+        "@burhanahmeed/vue-modal-2": "^1.1.9",
+        "@diracleo/vue-enlargeable-image": "^0.0.7",
+        "@inertiajs/inertia": "^0.8.5",
+        "@inertiajs/inertia-vue": "^0.5.5",
+        "@mdi/font": "^5.9.55",
+        "@vuesence/modal-window": "^0.7.8",
+        "enhanced-resolve": "^5.7.0",
+        "tailwindcss": "^2.0.4",
+        "v-easy-dialog": "^1.0.6",
+        "v-waterfall": "^0.1.1",
+        "vue": "^2.6.12",
+        "vue-data-loading": "^0.2.4",
+        "vue-flex-waterfall": "^1.0.7",
+        "vue-js-modal": "^2.0.0-rc.6",
+        "vue-masonry": "^0.12.0",
+        "vue-router": "^3.5.1",
+        "vue-spinners": "^1.0.2",
+        "vue-template-compiler": "^2.6.12",
+        "vue-waterfall": "^1.0.6",
+        "vue-window-modal": "git+https://github.com/ropbla9/vue-window-modal.git",
+        "vue2-waterfall": "^3.0.1"
+    }
+}
